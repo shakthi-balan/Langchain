@@ -9,7 +9,8 @@ https://arxiv.org/pdf/2210.03629
 https://smith.langchain.com/hub/hwchase17/react
 
 ##### APIs used
-Scrapin.io - Linkedin Data 
+Scrapin.io - Linkedin Data \n
+
 Tavily     - Web Search API
 
 
